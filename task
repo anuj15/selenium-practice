@@ -1,0 +1,26 @@
+"""
+TASKS:
+url: https://techbeamers.com/selenium-practice-test-page/
+1. Input fields: username, email, password, bio
+2. Dropdown: country, languages
+3. Checkbox: Interests
+4. Radio Button: Gender
+5. Button click: submit, reset, disable
+6. Alerts: alert with confirm/deny. alert with text input, alert with modal
+7. Dynamic content loading: load content on click, lazy load content
+8. Element displayed on button click
+9. Navigation: back, forward, refresh, new tab
+10. Switch tabs
+11. Tables & Grid: add row, sort column, click button in table
+12. Pagination
+13. Drag and Drop
+14. File Upload
+15. Date Picker, Date time input
+16. Slider
+17. Progress bar: increase, decrease, reset
+18. Hover for tooltip
+19. Dropdown on hover
+20. Mouse actions: double click, click and hold, right click, hover
+21. Keyboard actions: enter data using keys instead of sendkeys()
+22. Iframe
+"""
