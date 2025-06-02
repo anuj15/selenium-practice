@@ -1,6 +1,6 @@
 """
 TASKS:
-url: https://techbeamers.com/selenium-practice-test-page/
+url: https://testpages.eviltester.com/styled/index.html
 1. Input fields: username, email, password, bio
 2. Dropdown: country, languages
 3. Checkbox: Interests
